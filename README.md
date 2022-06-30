@@ -1,12 +1,12 @@
 # projeto-blog
- Blog Simple Feito Com Django.
+Blog Simple Feito Com Django.<br>
  
-Tcnologias Usadas.
-Python
-Django
-Css
-Html
-Bootstrap
+Tcnologias Usadas.<br>
+Python <br>
+Django <br>
+Css <br>
+Html <br>
+Bootstrap <br>
 
-RESUMO.
-Gostei de fazer esse projeto pois usa todos os conceitos básico do django como  as models, views, urls e templates.
+RESUMO.<br>
+Gostei de fazer esse projeto pois usa todos os conceitos básico do django como as models, views, urls e templates.
